@@ -55,6 +55,9 @@ class HelloWorld {
             String s = list.get(i);
             System.out.println(s);
         }
+
+        var num = 123;
+        System.out.println(num);
     }
 
     static int add(int x, int y) {
