@@ -8,3 +8,5 @@ javac $FILE_NAME.java
 echo ""
 
 java $FILE_NAME
+
+rm *.class
